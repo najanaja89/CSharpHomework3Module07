@@ -1,0 +1,6 @@
+D:\Source\CSharpHomework3Module07\MyClassLib\bin\Debug\MyClassLib.dll
+D:\Source\CSharpHomework3Module07\MyClassLib\bin\Debug\MyClassLib.pdb
+D:\Source\CSharpHomework3Module07\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+D:\Source\CSharpHomework3Module07\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+D:\Source\CSharpHomework3Module07\MyClassLib\obj\Debug\MyClassLib.dll
+D:\Source\CSharpHomework3Module07\MyClassLib\obj\Debug\MyClassLib.pdb
