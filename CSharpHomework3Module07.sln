@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpHomework3Module07", "CSharpHomework3Module07\CSharpHomework3Module07.csproj", "{A635A229-4CCA-4D6D-8EC1-A4CAB07E203D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLib", "MyClassLib\MyClassLib.csproj", "{1DA5C545-986A-4404-B567-EB0368637619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A635A229-4CCA-4D6D-8EC1-A4CAB07E203D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A635A229-4CCA-4D6D-8EC1-A4CAB07E203D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A635A229-4CCA-4D6D-8EC1-A4CAB07E203D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A635A229-4CCA-4D6D-8EC1-A4CAB07E203D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA5C545-986A-4404-B567-EB0368637619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA5C545-986A-4404-B567-EB0368637619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA5C545-986A-4404-B567-EB0368637619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA5C545-986A-4404-B567-EB0368637619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1444F6EE-1DDB-45C2-9B3C-A237D8616976}
+	EndGlobalSection
+EndGlobal
