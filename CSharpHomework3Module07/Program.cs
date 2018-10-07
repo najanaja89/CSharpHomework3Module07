@@ -92,11 +92,11 @@ namespace CSharpHomework3Module07
 
                 if (side == 1 && countT34 > countPantera)
                 {
-                    Console.WriteLine("You Win!");
+                    Console.WriteLine("You Win! For Soviet Union!");
                 }
                 else if (side == 2 && countT34 < countPantera)
                 {
-                    Console.WriteLine("You Win!");
+                    Console.WriteLine("You Win! Hail Hydra!");
                 }
                 else if ((side == 1 || side == 2) && countT34 == countPantera)
                 {
